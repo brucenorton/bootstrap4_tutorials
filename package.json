@@ -1,5 +1,13 @@
 {
-  "name":"bootstrap",
-  "version":"0.1",
-  "main":"index.html"
+  "files": {
+    "bootstrap4_3_navbar.html": {
+    },{
+    "webtech.css:{}
+  },
+    "package.json": {
+      "content": {
+        "dependencies": {}
+      }
+    }
   }
+}
