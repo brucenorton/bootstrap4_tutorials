@@ -1,13 +1,12 @@
 {
-  "files": {
-    "bootstrap4_3_navbar.html": {
-    }},{
-    "webtech.css":{}
-  },
-    "package.json": {
-      "content": {
-        "dependencies": {}
-      }
-    }
-  }
+	"files": {
+		"bootstrap4_3_navbar.html": {
+
+		},
+		"package.json": {
+			"content": {
+				"dependencies": {}
+			}
+		}
+	}
 }
